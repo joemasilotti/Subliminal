@@ -65,7 +65,7 @@ Running the Example App
 5. Switch to the "Integration Tests" scheme.
  You may also see a scheme called "Subliminal Integration tests"--make sure you choose "Integration Tests."
 6. Choose Product > Profile (⌘+I).
-7. Under the User Templates, choose Subliminal.
+7. Under the User Templates (re-named "Custom" in Xcode 6), choose Subliminal.
 
 Installing Subliminal
 ---------------------
